@@ -1,0 +1,25 @@
+.head{
+  position: fixed;
+  top: 0;
+  padding: 0 200px;
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+  min-width: 1200px;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.4);
+  box-shadow: 0 1px 3px #8583836b ;
+  box-sizing: border-box;
+}
+
+.head_logo{
+  font-size: 22px;
+  line-height: 50px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.head_nav{
+  line-height: 50px;
+}
+.head_nav a{
+  padding: 0 20px;
+}

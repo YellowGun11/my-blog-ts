@@ -1,0 +1,18 @@
+.about{
+    width: 1200px;
+}
+
+.about-banner{
+    position: absolute;
+    top:50px;
+    left: 0;
+    width: 100vw;
+    height: 500px;
+    overflow: hidden;
+}
+.about-banner img{
+    width: 100%;
+}
+.about-content{
+    margin-top: 500px;
+}

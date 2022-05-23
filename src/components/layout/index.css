@@ -1,0 +1,6 @@
+.layout-container{
+  padding-top: 50px;
+  margin: 0 auto;
+  min-height: calc(100vh - 50px);
+  width: 1200px;
+}
